@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 ## Table Of Contents 
 5.1-5.2
 
